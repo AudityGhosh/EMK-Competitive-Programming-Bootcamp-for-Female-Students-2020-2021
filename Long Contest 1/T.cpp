@@ -15,4 +15,4 @@ int main()
         cout<<" "<<i;
     cout<<endl;
 }
-//Audity Ghosh
+//AudityGhosh
